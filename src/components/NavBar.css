@@ -1,0 +1,12 @@
+.logo{
+    width: 30px;
+}
+.toolBar{
+    align-items: center;
+    background-color: hwb(261 56% 14%);
+    margin-top: auto;
+    min-height: 1000vh;
+    left: 0;
+    width: 100%;
+
+}

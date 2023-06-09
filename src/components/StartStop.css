@@ -1,0 +1,33 @@
+.stop-watch{
+	height: 50vh;
+	width: 80vw;
+	background-color:rgb(153, 210, 224);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+	padding-right: 40%;
+}
+.fs-1{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.DistanceDigits{
+	position: relative;
+	left: 170px;
+	top:-165px;
+	font-size: 30px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.DistanceText{
+	position: relative;
+	left: 170px;
+	top:-255px;
+	font-size: 30px;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	
+}
+#headline{
+	position: relative;
+	top:-100px;
+	right:-77px;
+}
